@@ -39,3 +39,4 @@ const greet = () => 'hello world!'
 ## __Languages__
 - Russian
 - English
+- Uzbek
