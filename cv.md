@@ -37,4 +37,5 @@ const greet = () => 'hello world!'
   - [HTML Academy](https://www.htmlacademy.ru)
 
 ## __Languages__
+- Russian
 - English
